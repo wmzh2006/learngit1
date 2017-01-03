@@ -1,2 +1,3 @@
-Git it a version system.
+Git it a distributed version system.
 Git is free software.
+
